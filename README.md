@@ -43,7 +43,7 @@ The gear was created by sketching a base circle and repeating a rectangular shap
 ---
 
 ## 📁 Files Included
-- gear.stl → 3D model file
-- gear.png → Design image
+- gear1.stl → 3D model file
+- gear1.png → Design image
 - README.md → Project description
 
