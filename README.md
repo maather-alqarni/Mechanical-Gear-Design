@@ -5,7 +5,7 @@ This project presents a 3D gear design created using Onshape.
 ---
 
 ## 📌 Project Description
-The purpose of this project is to design a simple mechanical gear using CAD tools.  
+The purpose of this project is to design a simple mechanical gear.
 The gear was created by sketching a base circle and repeating a rectangular shape to form the teeth, followed by extrusion to generate the 3D model.
 
 ---
@@ -20,7 +20,7 @@ The gear was created by sketching a base circle and repeating a rectangular shap
 ---
 
 ## 🛠️ Tools Used
-- Onshape (3D CAD Design)
+- Onshape (3D Design)
 - Sketch Tools
 - Extrude Feature
 - Fillet Tool
