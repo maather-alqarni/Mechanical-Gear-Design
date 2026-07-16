@@ -28,7 +28,7 @@ The gear was created by sketching a base circle and repeating a rectangular shap
 ---
 
 ## 📷 Design Preview
-![Gear Design](gear.png)
+![Gear Design](gear1.png)
 
 ---
 
@@ -38,7 +38,7 @@ The gear was created by sketching a base circle and repeating a rectangular shap
 ---
 
 ## 🎥 Project Video
-[Click here to watch the video](https://drive.google.com/file/d/17FLqH2p3RUXwQhwpFglMf7M7UsJr3ekD/view?usp=sharing)
+[Click here to watch the video](https://drive.google.com/file/d/1_x_T88EsnCMtByr2-_WBunnmbYo7ulbs/view?usp=sharing)
 
 ---
 
