@@ -33,7 +33,7 @@ The gear was created by sketching a base circle and repeating a rectangular shap
 ---
 
 ## 🔗 Onshape Link
-[Click here to view the design](https://cad.onshape.com/documents/50b34829d3b4a50df06a160a/w/1175cedffdf8e35c389b4954/e/5561be9c366c186b361bfcea?renderMode=0&uiState=6a593d3c6580edaf95e10533)
+[Click here to view the design](https://cad.onshape.com/documents/50b34829d3b4a50df06a160a/w/1175cedffdf8e35c389b4954/e/5561be9c366c186b361bfcea)
 
 ---
 
